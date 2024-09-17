@@ -8,4 +8,10 @@ Given an integer n, the task is to determine how many ways blocks can be placed 
 - The function should return the number of distinct ways to fill the grid.
 
 #### Example:
-For a grid of size n = 4, the number of ways to place the blocks would be 5.
+For a grid of size n = 4, the number of ways to place the blocks would be 5. 
+
+## How to run
+To run the script, simply execute the following into your terminal: python block_puzzle.py
+
+## License
+This project is licensed under the MIT License.
